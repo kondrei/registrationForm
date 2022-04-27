@@ -2,7 +2,7 @@ import "./styles.css";
 
 export default function FormData() {
   return (
-    <div className="App">
+    <div className="app">
       <div className="container">
         <div className="formData">
           <div className="formTitle">
